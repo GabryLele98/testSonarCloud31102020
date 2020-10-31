@@ -4,8 +4,8 @@ jdk:
 
 addons:
   sonarcloud:
-    organization: "gabryLele98"
-    token: "80ffe442468eb4a73d21c1916b5df42d2a65f408"
+    organization: GabryLele98
+    token: 80ffe442468eb4a73d21c1916b5df42d2a65f408
 
 script:
 - ant build
